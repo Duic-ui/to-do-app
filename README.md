@@ -1,2 +1,10 @@
-# to-do-app
-A simple To-Do application built with React for learning and practice.
+# TO-DO-APP
+A simple project developed based on learning react on youtube
+
+## Technology
+#### React
+#### Html
+#### Tailwind CSS
+
+## Github deployment
+https://duic-ui.github.io/todoapp/
